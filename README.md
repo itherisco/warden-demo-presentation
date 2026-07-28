@@ -228,4 +228,4 @@ Same response with full JSON payload visibility.
 
 ## License
 
-Apache-2.0# warden-demo-presentation
+Apache-2.0
