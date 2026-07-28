@@ -1,0 +1,14 @@
+/home/mari123/Documents/warden/warden-demo-presentation/target/release/deps/serde-8e8836c0baecec3d.d: /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/mari123/Documents/warden/warden-demo-presentation/target/release/build/serde-f4e379fcda739074/out/private.rs
+
+/home/mari123/Documents/warden/warden-demo-presentation/target/release/deps/libserde-8e8836c0baecec3d.rlib: /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/mari123/Documents/warden/warden-demo-presentation/target/release/build/serde-f4e379fcda739074/out/private.rs
+
+/home/mari123/Documents/warden/warden-demo-presentation/target/release/deps/libserde-8e8836c0baecec3d.rmeta: /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/mari123/Documents/warden/warden-demo-presentation/target/release/build/serde-f4e379fcda739074/out/private.rs
+
+/home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/mari123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/mari123/Documents/warden/warden-demo-presentation/target/release/build/serde-f4e379fcda739074/out/private.rs:
+
+# env-dep:OUT_DIR=/home/mari123/Documents/warden/warden-demo-presentation/target/release/build/serde-f4e379fcda739074/out
